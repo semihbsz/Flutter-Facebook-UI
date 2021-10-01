@@ -1,9 +1,9 @@
 import 'package:flutter_facebook_responsive_ui/models/models.dart';
 
 final User currentUser = User(
-  name: 'Marcus Ng',
+  name: 'Semih Baltacıoğlu',
   imageUrl:
-      'https://images.unsplash.com/photo-1578133671540-edad0b3d689e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80',
+      'https://scontent.fsaw2-1.fna.fbcdn.net/v/t1.6435-9/170526515_1058021914684067_5286493322039281036_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=s5tnC5Ddx5MAX-mdA7h&_nc_ht=scontent.fsaw2-1.fna&oh=c88fd945296c4d2eaf1695668a62fde5&oe=617CBED6',
 );
 
 final List<User> onlineUsers = [
